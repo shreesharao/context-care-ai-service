@@ -59,3 +59,11 @@ nunit-*.xml
 .squad/sessions/
 # Squad: SubSquad activation file (local to this machine)
 .squad-workstream
+
+.github
+.squad
+.copilot
+.vscode
+
+# Ignore launchSettings.json, which may contain environment-specific settings
+**/launchSettings.json

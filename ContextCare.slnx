@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/ContextCare.Api/ContextCare.Api.csproj" />
+    <Project Path="src/ContextCare.AppHost/ContextCare.AppHost.csproj" />
     <Project Path="src/ContextCare.Domain/ContextCare.Domain.csproj" />
   </Folder>
 </Solution>
